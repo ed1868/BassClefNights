@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-compatible" content="IE=edge">
+    <meta name="viewport" content="width=devide-width, initial-scale=1">
+    <style type="text/css">
+
+@media screen and (max-width: 400px) {
+
+}
+@media screen and (min-width: 401px) and (max-width: 400px) {
+
+}
+@media screen and (max-width:768px) {
+
+}
+</style>
+</head>
+<body>
+  <div class="wrapper">
+    <div class="wrapper-inner">
+      <table class="outer-table">
+        <tr>
+          <td class="header">
+            <p><a href="www.pornhub.com">Click to view this email in your browser.</a></p>
+          </td>
+        </tr>
+
+
+      </table> <!---End outer-table -->
+      <table class="main-table-first">
+        <tr>
+          <td class="two-column">
+            <div class="section">
+              <table width="100%">
+                <tr>
+                  <td class="inner-td">
+                    <table class="content">
+                      <tr>
+                        <td align="center">
+                          <img src="#" class="logo"> <!-- company logo -->
+
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </div> <!--- end first of two two-columns -->
+            <div class="section">
+              <table width="100%">
+                <tr>
+                  <td class="inner-td">
+                    <table class="content">
+                      <tr>
+                        <td>
+                          <div id="callout"> <!--social media icons -->
+                            <ul class="social">
+                              <li><a href="www.facebook.com"><img src="#"></a></li>
+                              <li><a href="www.twitter.com"><img src="#"></a></li>
+                              <li><a href="www.instagram.com"><img src="#"></a></li>
+                              <li><a href="www.youtube.com"><img src="#"></a></li>
+                            </ul>
+
+
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </div> <!-- end first of two two-columns -->
+          </td>
+        </tr>
+        </table> <!-- end main table first -->
+        <table class="outer-table">
+          <tr>
+            <td class="image">
+              <img src ="#"> <!-- add styled landscape header image like the one you showed me that saying "ultra tickets on sale now!" -->
+            </td>
+          </tr>
+        </table> <!--end of banner image -->
+        <table class="main-table">
+          <tr>
+            <td class="one-column">
+              <table width="100%">
+                <tr>
+                  <td class="inner-td"> <!--where the content goes -->
+                    <p class="h2">Support Center</p> <!-- edit to preference -->
+                    <p class="center">Hi "user name", Thank you for reaching out to us! Our representatives are aware of your question and will get back to you ASAP. In the meantime, sit back, relax and explore the world of Bass Clef Nights </p> <!-- edit to preference -->
+                    <p class="button-holder-center">
+                      <a class="btn" href="www.redtube.com"> Learn More</a></p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+
+
+
+
+          </tr> <!-- end of heading ,paragraph and button section -->
+          <tr>
+            <td class="two-column">
+              <div class="section">
+                <table width="100%">
+                  <tr>
+                    <td class="inner-td">
+                      <table class="content">
+                        <tr>
+                          <td>
+                            <a href="#"><img src="#" class="img-responsive"></a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="text">
+                            <p> Artist #1 fun fact </p>
+
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </div> <!--- end first of two two-columns -->
+              <div class="section">
+                <table width="100%">
+                  <tr>
+                    <td class="inner-td">
+                      <table class="content">
+                        <tr>
+                          <td>
+                            <a href="#"><img src="#" class="img-responsive"></a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="text">
+                            <p> Artist #2 fun fact </p>
+
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </div> <!-- end second column of two columns -->
+            </td>
+          </tr> <!-- end two column section -->
+        </table> <!-- end main table -->
+        <table class="outer-table-3">
+          <tr>
+            <td class="one-column">
+              <table width="100%">
+                <tr>
+                  <td class="footer">
+                    <img src ="#">
+                    <p class="footer">777 Ne 63rd St MY CITY, MY STATE 33138<br>&copy; BASSCLEFNIGHTSFOUNDATION,2018.<br><a href="#">Unsubscribe</a></p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table> <!-- end of outer table 3 aka footer -->
+      </div> <!-- end wrapper inner -->
+    </div> <!-- end wrapper -->
+  </body>
+  </html>
